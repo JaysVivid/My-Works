@@ -1,6 +1,6 @@
 # Trip Tracking Star Schema
 #### Here is a sample star schema based on the limited information provided:
-![alt text](Trip_Tracking_Star_Schema.png)
+![trip_tracking_star_schema](https://user-images.githubusercontent.com/47398796/52368464-73194e80-2a1c-11e9-83df-dc7149938a78.png)
 
 ### Note:
 1. Trip duration (calculated as Started_at – Ended_at)
