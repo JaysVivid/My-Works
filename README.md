@@ -3,11 +3,9 @@
 ### 1. Identify the business process we want to track
 In the given scenario, the business is interested in tracking the following measures:
 
-•	Daily trips taken
-
-•	Duration of trips
-
-•	Miles driven
+* Daily trips taken
+* Duration of trips
+* Miles driven
 
 ### 2. Choose the granularity of the fact data
 This will depend on the total volume of transaction-level data. It’s usually a good idea to start with the finest grain of data and store each Trip transaction line item.
